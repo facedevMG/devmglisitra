@@ -1,20 +1,11 @@
 Features
 =======
-lisitra will be an app for  referencing  IT professional or those who have got their degrees recently  around Madagascar Area. If you are searching for talents . it will be for you. 
+  lisitra will be an app for  referencing  IT professional or those who have got their degrees recently  around Madagascar Area. If you are searching for talents . it will be for you. 
 
 
 Data Used / displayed
 ========
-  name
-  contacts
-  url websites/portfolio
-  bio
-  photo
-  skills
-  Interest
-  repositories/projects
-  language
-  year experience
+  name, contacts, url websites/portfolio, bio, photo, skills, Interest, repositories/projects, language, year experience
 
 Functional specification
 ======
