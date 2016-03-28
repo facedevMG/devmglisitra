@@ -1,6 +1,6 @@
 Features
 =======
-lisitra will be an app for  referencing  IT professional or those who have got their degrees recently  around Madagascar Area. If you are searching for talents . it is for you. 
+lisitra will be an app for  referencing  IT professional or those who have got their degrees recently  around Madagascar Area. If you are searching for talents . it will be for you. 
 
 
 Data Used / displayed
