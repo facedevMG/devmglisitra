@@ -19,7 +19,8 @@ Data Used / displayed
 Functional specification
 ======
  * account for members 
- * viewer lambda : can research profile by skills using tags
+ * a page where members can create and edit their profiles
+ * viewer lambda : can research profile by skills using tags or other criteria
  * UI: web/mobile and tab friendly
 
 Tools
