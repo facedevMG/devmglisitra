@@ -30,7 +30,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 TEMPLATE_DIRS = (
-  os.path.join(BASE_DIR, 'templates') ,
+  os.path.join(BASE_DIR, 'lisitra/template') ,
 )
 
 INSTALLED_APPS = (
@@ -51,9 +51,9 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'pyladiesmdg.urls'
+ROOT_URLCONF = 'lisitra.urls'
 
-WSGI_APPLICATION = 'pyladiesmdg.wsgi.application'
+WSGI_APPLICATION = 'lisitra.wsgi.application'
 
 
 # Database
