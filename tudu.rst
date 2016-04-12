@@ -5,7 +5,7 @@ Features
 
 Data Used / displayed
 ========
-  name, contacts, url websites/portfolio, bio, photo, skills, Interest, repositories/projects, language, year experience
+  name, contacts, url websites/portfolio, bio, photo, skills, Interest, repositories/projects, language,  experiences
 
 Functional specification
 ======
