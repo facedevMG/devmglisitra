@@ -1,8 +1,0 @@
-  Introduction to Algorithms 3rd Edition:http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
- The Pragmatic Programmer;https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf
- The Art Of Computer Programming;http://www.softouch.on.ca/kb/data/The%20Art%20Of%20Computer%20Programming%20-%20Sorting%20and%20Searching%20(2nd%20edition%20Volume%203).pdf
-Don't make me think:http://wireframe.vn/books/Don't%20Make%20Me%20Think%20-%20A%20Common%20Sense%20Approach%20To%20Web%20Usability%20(Second%20Edition)%20(2006).pdf
-coders at work;http://one-shore.com/aaron/books/coders-at-work.pdf
-The Mythical Man-Month;https://is.muni.cz/www/208322/The.Mythical.Man.Month.F.Brooks.pdf
-Cracking the code interview;https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf
-Clean Code;https://www.investigatii.md/uploads/resurse/Clean_Code.pdf
