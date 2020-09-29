@@ -2,6 +2,7 @@
     https://github.com/Andriantomanga (Java, PHP, JavaScript)
     https://github.com/anjaniacatus (Ruby python shell scripting)
     https://github.com/didaRatsimba (Java, Eclipse)
+    https://github.com/dotmg (PHP, Java, RPG)
     https://github.com/fmaurica (Java, Python, PERL, Puppet, C, TeX)
     https://github.com/FranckyU (Ruby, C, CSS)
     https://github.com/herisata (Java, JavaScript)
